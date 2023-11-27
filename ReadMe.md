@@ -17,6 +17,8 @@ There are two different branches associated with this lesson.
 ## Files / Folders in this Lesson
 - assets
   - `Express Route Neighborhood.pdf`
+- public
+  - `index.html` (code provided)
 - `notes.md`
 
 ## Resources
