@@ -30,3 +30,13 @@ There are two different branches associated with this lesson.
 *All challenge solutions will be up to the instructor as to how they are provided.*
 
 ---
+```js
+/*
+!   Challenge
+    - Request Type: POST
+    - Endpoint: "greeting"
+    - Send: "Good Afternoon!" as a string
+    - Test: Postman
+        * hint: GET should be POST  
+*/
+```
